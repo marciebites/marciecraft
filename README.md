@@ -1,3 +1,2 @@
 # marcie's Create Modpack
-Hello! I will be updating this page as I add mods to the modpack :3
-[Attempt to make a link](/marciecraft.md)
+[Mods List](/marciecraft.md)

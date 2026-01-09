@@ -3,6 +3,7 @@
 - Create
 - Entity Model Features
 - Entity Texture Features
+- Iris
 - Just Zoom
 - Konkrete
 - LambDynamicLights
