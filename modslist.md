@@ -5,6 +5,7 @@
 - Entity Texture Features [7\.0\.8]
 - Iris [1\.8\.12\-snapshot\+mc1\.21\.1\-local]
 - Just Zoom [2\.1\.0]
+- KissMod [1\.2\.0]
 - Konkrete [1\.9\.9]
 - LambDynamicLights [4\.8\.7\+1\.21\.1]
 - Lithium [0\.15\.1\+mc1\.21\.1]
