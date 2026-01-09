@@ -1,14 +1,15 @@
-- 3d\-Skin\-Layers
-- AppleSkin
-- Create
-- Entity Model Features
-- Entity Texture Features
-- Iris
-- Just Zoom
-- Konkrete
-- LambDynamicLights
-- Lithium
-- NotEnoughAnimations
-- Sodium
-- Xaero's Minimap
-- Xaero's World Map
+- 3d\-Skin\-Layers [1\.10\.1]
+- AppleSkin [3\.0\.7\+mc1\.21]
+- Create [6\.0\.9]
+- Entity Model Features [3\.0\.10]
+- Entity Texture Features [7\.0\.8]
+- Iris [1\.8\.12\-snapshot\+mc1\.21\.1\-local]
+- Just Zoom [2\.1\.0]
+- Konkrete [1\.9\.9]
+- LambDynamicLights [4\.8\.7\+1\.21\.1]
+- Lithium [0\.15\.1\+mc1\.21\.1]
+- NotEnoughAnimations [1\.11\.1]
+- Sodium [0\.6\.13\+mc1\.21\.1]
+- Teleport Commands [1\.3\.4]
+- Xaero's Minimap [25\.3\.5]
+- Xaero's World Map [1\.40\.6]
