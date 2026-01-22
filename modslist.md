@@ -1,4 +1,5 @@
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) [3\.0\.7\+mc1\.21]
+- [Configured](https://www.curseforge.com/projects/457570) [2\.6\.3]
 - [Create](https://modrinth.com/mod/LNytGWDc) [6\.0\.9]
 - [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) [3\.0\.10]
 - [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) [7\.0\.8]
